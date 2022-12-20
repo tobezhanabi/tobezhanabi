@@ -1,5 +1,6 @@
 <!-- Header -->
-<h1 align="right"> 👋 Hello! Welcome to my profile 📸 </h1>
+<h1 align="right"> 👋 Hello! I'm Tobenna </h1>
+<p> I am a passionate and driven software developer with a strong background in computer science and a foundation in HTML, CSS, JavaScript, Solidity, React, and Node.js. While I am still learning and growing as a developer, I have a strong understanding of these technologies and am confident in my ability to create effective and efficient solutions using a wide range of tools and frameworks. I am always seeking to expand my skillset and take on new challenges, and I am excited to continue learning and growing as a developer. With my computer science background, I have a solid foundation in computer science principles and am well-equipped to tackle complex technical challenges</p>
 
 <br />
 <div align="center">
