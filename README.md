@@ -24,7 +24,7 @@
 <!-- Blogs -->
 <h2 align="right"> website ✍️ </h2><br />
 
-
+#COMING SOON
 <br /><br />
 
 <!-- Full Tech Stack -->
