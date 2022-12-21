@@ -23,10 +23,7 @@
 
 <!-- Blogs -->
 <h2 align="right"> website ✍️ </h2><br />
-<ul>
-  <li><a href="https://yashura.hashnode.dev/">Tech Articles</a></li>
-  <li><a href="https://blog.ushiftmusic.com/">Music Articles</a></li>
-</ul>
+
 
 <br /><br />
 
